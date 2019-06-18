@@ -1,2 +1,2 @@
-# expressThreading
-Site under construction. View progress at https://ydahal1.github.io/expressThreading/
+# expressThreadig
+This site is live at https://xpresswaxing.com/
